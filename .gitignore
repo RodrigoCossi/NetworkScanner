@@ -1,0 +1,7 @@
+speedtest.exe
+
+# Ignore all files in logs/
+logs/*
+
+# But do not ignore the logs folder itself
+!logs/.gitkeep
