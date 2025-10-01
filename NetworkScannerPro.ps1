@@ -28,7 +28,7 @@ if (-not $TargetUrl) {
             Write-Host "Examples:" -ForegroundColor Yellow
             Write-Host "  .\NetworkScannerPro.ps1 -TargetUrl 'zoom.us'" -ForegroundColor Gray
             Write-Host "  .\NetworkScannerPro.ps1 -TargetUrl 'teams.microsoft.com'" -ForegroundColor Gray
-            Write-Host "  .\NetworkScannerPro.ps1 -TargetUrl 'teacher.lingoace.com'" -ForegroundColor Gray
+            Write-Host "  .\NetworkScannerPro.ps1 -TargetUrl 'discord.com'" -ForegroundColor Gray
             Write-Host ""
             Write-Host "Press any key to exit..." -ForegroundColor Gray
             $null = $Host.UI.RawUI.ReadKey("NoEcho,IncludeKeyDown")
