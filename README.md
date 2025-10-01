@@ -1,9 +1,9 @@
-# Quick Start Guide - Network Scanner
+# Network Scanner
 
-## For online teachers and professionals alike, who need to ensure a good internet connection to video call platforms.
+### For remote educators and professionals, who need to ensure a good internet connection for video conferencing platforms.
 
 ### The Problem being solved
-Helping online professionals suffering with bad internet connection, NetworkScanner and NetworkScannerPro help to troubleshoot internet problems with a simple double click. The two scanners available in this repository run industry standard tests to check the connection to the ISP (Internet Service Provider) and to the online/streaming platform. Assessing the quality, speed and stability of their connection. The scanners generate reports after every execution, helping IT teams diagnose deeper network issues and helping solve disputes. 
+Helping online professionals suffering with bad internet connection, `NetworkScanner` and `NetworkScannerPro` help to troubleshoot internet problems with a simple double click. The two scanners available in this repository run industry standard tests to check the connection to the ISP (Internet Service Provider) and to the online/streaming platform, assessing the quality, speed, and stability of their connection. The scanners generate reports after every execution, helping IT teams diagnose deeper network issues and helping solve disputes.
 
 ## 🚀 Quick Start
 
@@ -13,9 +13,14 @@ Helping online professionals suffering with bad internet connection, NetworkScan
 
 Just **double-click** and wait for results!
 
+### Sample images:
 
-![alt text](<Screenshot 2025-10-01 194643.png>)
-![alt text](<Screenshot 2025-10-01 220706.png>)
+
+<!-- Side by side images, each 1/3 width -->
+<p align="center">
+  <img src="Screenshot 2025-10-01 194643.png" alt="Screenshot 1" width="52%" style="display:inline-block;"/>
+  <img src="Screenshot 2025-10-01 220706.png" alt="Screenshot 2" width="33%" style="display:inline-block;"/>
+</p>
 
 
 ## 📋 Automatic Logging
