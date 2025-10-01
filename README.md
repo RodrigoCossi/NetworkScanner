@@ -16,10 +16,9 @@ Just **double-click** and wait for results!
 ### Sample images:
 
 
-<!-- Side by side images, each 1/3 width -->
 <p align="center">
-  <img src="Screenshot 2025-10-01 194643.png" alt="Screenshot 1" width="52%" style="display:inline-block;"/>
-  <img src="Screenshot 2025-10-01 220706.png" alt="Screenshot 2" width="33%" style="display:inline-block;"/>
+  <img alt="Screenshot 2025-10-01 194643 (1)" src="https://github.com/user-attachments/assets/cd79e330-427d-49e4-8a9a-9af0ef85d5a6" width="52%" style="display:inline-block;"/>
+  <img alt="Screenshot 2025-10-01 220706" src="https://github.com/user-attachments/assets/e7d12dab-557a-4b5a-8207-828098b9a5e0" width="33%" style="display:inline-block;"/>
 </p>
 
 
