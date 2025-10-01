@@ -1,6 +1,8 @@
 # Network Scanner
 
-## For remote educators and professionals, who need to ensure a good internet connection for video conferencing platforms.
+### For remote educators and professionals, who need to ensure a good internet connection for video conferencing platforms.
+
+<br/>
 
 ### The Problem being solved
 Helping online professionals suffering with bad internet connection, `NetworkScanner` and `NetworkScannerPro` help to troubleshoot internet problems with a simple double click. The two scanners available in this repository run industry standard tests to check the connection to the ISP (Internet Service Provider) and to the online/streaming platform, assessing the quality, speed, and stability of their connection. The scanners generate reports after every execution, helping IT teams diagnose deeper network issues and helping solve disputes.
